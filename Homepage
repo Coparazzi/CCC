@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cops, Crime & Chaos</title>
+  <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header id="header">
+    <h1>Cops, Crime & Chaos</h1>
+    <p>We protect and serve the truth.</p>
+  </header>
+
+  <!-- MAIN SECTION -->
+  <section id="main" class="wrapper">
+    <div class="inner">
+      <h2>🎥 What is Cops, Crime & Chaos?</h2>
+      <p><strong>Cops, Crime & Chaos (CCC)</strong> is a First Amendment-powered, camera-wielding media movement exposing police misconduct, government overreach, and systemic corruption—with a side of satire, receipts, and reality checks.</p>
+
+      <p>We don’t manufacture outrage—we document it. We don’t worship authority—we question it. From badge-heavy bullies to tax-funded tantrums, we shine a light where the state doesn’t want it. This is street-level journalism for the people—raw, unfiltered, and unapologetic.</p>
+
+      <p><strong>We believe:</strong></p>
+      <ul>
+        <li>📸 Transpa
